@@ -1,0 +1,16 @@
+{
+  "name": "tp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "meluha",
+  "license": "ISC",
+  "description": "sawtooth TP for storing and retreiving data",
+  "dependencies": {
+    "cbor": "^4.1.4",
+    "sawtooth-sdk": "^1.0.5"
+  },
+  "devDependencies": {}
+}
