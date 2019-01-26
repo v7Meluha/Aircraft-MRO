@@ -23,8 +23,3 @@ Transactions
         Update status to listed
     Buy - The buyer can buy one specific asset which as the certificate.
         Update the OwnerId to buyer’s public key
-
-What you can expect from us during this task?
-
-    Help in setting up Hyperledger sawtooth network.
-    Basics of Sawtooth Lifecycle.
