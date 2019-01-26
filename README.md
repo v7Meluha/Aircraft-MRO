@@ -1,4 +1,4 @@
-# Aircraft_MRO_Modified
+# Aircraft_MRO
 Objective
 
 To create a simple Aircraft MRO system which involving multiple parties with their roles mentioned below using Hyperledger Sawtooth.
